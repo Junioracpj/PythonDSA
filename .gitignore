@@ -1,2 +1,4 @@
 # Ignore a pasta Downloads
 /MongoDB/downloads
+# Ignore o arquivo IMDB
+*.db
